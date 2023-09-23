@@ -1,2 +1,4 @@
 # test
-this is for test
+this is for test for sudeshnabera repo
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
